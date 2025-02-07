@@ -1,2 +1,2 @@
-# micropythonESP32
-Materail didático sobre Micropython com ESP32
+# MicroPython com ESP32
+Material didático sobre Micropython com ESP32
