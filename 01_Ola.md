@@ -41,9 +41,7 @@ print ('Olá', nome)
 * Converta a entrada de texto para inteiro com uso de *int()* ou real com *float()*.
 * Imprima tais valores.
 
-## Simulação
 
-Esta [experiência](https://wokwi.com/projects/346161396802650706) pode ser simulada no [Wokwi](https://wokwi.com/projects/346161396802650706) com uso de uma placa ESP32.
 
 ---
 
