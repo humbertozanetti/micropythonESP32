@@ -74,9 +74,7 @@ except KeyboardInterrupt:
 * Adicione um segundo led, de maneira que existam três estados sequenciais de funcionamento: tudo desligado, um led ligado, dois leds ligados, tudo desligado e assim sucessivamente.
 * Modifique a sequência para que seja: tudo desligado, um led ligado, dois leds ligados, um led ligado, tudo desligado, repetindo o ciclo.
 
-## Simulação
 
-Esta [experiência](https://wokwi.com/projects/346254975009030738) pode ser simulada no [Wokwi](https://wokwi.com/projects/346254975009030738) com uso de uma placa ESP32.
 
 ---
 
