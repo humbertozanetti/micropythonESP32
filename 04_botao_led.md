@@ -89,8 +89,6 @@ except KeyboardInterrupt:
 		  
 ```
 
-## Simulação
 
-Esta [experiência](https://wokwi.com/projects/346164150480667220) pode ser simulada no [Wokwi](https://wokwi.com/projects/346164150480667220) com uso de uma placa ESP32.
 
 ---
