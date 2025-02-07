@@ -82,9 +82,7 @@ while True:
 
 ```
 
-## Simulação
 
-Esta [experiência](https://wokwi.com/projects/346163718014370386) pode ser simulada no [Wokwi](https://wokwi.com/projects/346163718014370386) com uso de uma placa ESP32.
 
 ---
 
