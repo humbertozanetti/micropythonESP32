@@ -45,9 +45,7 @@ print(f'{impl.name} v{impl.version[0]}.{impl.version[1]}')
 * Modifique a mensagem (variável `message`) e execute novamente.
 * Imprima várias mensagens diferentes, utilizando outros comandos `print`.
 
-### Simulação
 
-Esta [experiência](https://wokwi.com/projects/345887141617730130) pode ser simulada no [Wokwi](https://wokwi.com/projects/345887141617730130).
 
 ---
 
