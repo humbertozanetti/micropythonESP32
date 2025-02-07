@@ -51,9 +51,6 @@ while True:
 * Modifique a temporização do led, aumentando ou diminuindo os valores usados na função `sleep`.
 * Imprima mensagens que indiquem o ponto de execução do programa.
 
-## Simulação
-
-Esta [experiência](https://wokwi.com/projects/345887313822220884) pode ser simulada no [Wokwi](https://wokwi.com/projects/345887313822220884) com uso de uma placa ESP32.
 
 ---
 
