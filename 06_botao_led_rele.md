@@ -1,4 +1,4 @@
-06 Botão com retenção de estado, relê e LED
+# 06 Botão com retenção de estado, relê e LED
 
 Um programa que monitora o estado de um botão (*chave táctil*), de modo que seu acionamento alterna o funcionamento de um (módulo) relê e de um led montado externamente à placa de desenvolvimento, cujos estados são mantidos entre os acionamentos do botão. Quando o botão é acionado ocorre a troca de estado, acionando os dispositivosm até que o botão seja pressionado novamente. Mostra o uso de porta GPIO (*General Purpose Input Output*) como entrada digital ou como uma saída digital, além de variáveis para retenção de estado.
 
